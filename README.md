@@ -6,4 +6,4 @@ https://www.kaggle.com/barthpaleologue/fire-emblem-three-houses-portraits-comple
 
 You can browse generated samples at http://barth.paleologue.fr/edelgan
 
-![Generated Sample](http://barth.paleologue.fr/edelgan/front_sample.png)
+![Generated Sample](http://barth.paleologue.fr/edelgan/front_wall.png)
